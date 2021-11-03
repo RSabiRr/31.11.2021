@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Access modifiers, Namespace, Library/1.0.0": {
+        "dependencies": {
+          "Library1": "1.0.0"
+        },
+        "runtime": {
+          "Access modifiers, Namespace, Library.dll": {}
+        }
+      },
+      "Library1/1.0.0": {
+        "runtime": {
+          "Library1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access modifiers, Namespace, Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

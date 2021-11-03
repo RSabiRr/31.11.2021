@@ -1,0 +1,19 @@
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Access modifiers, Namespace, Library.exe
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Access modifiers, Namespace, Library.deps.json
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Access modifiers, Namespace, Library.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Access modifiers, Namespace, Library.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Access modifiers, Namespace, Library.dll
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\ref\Access modifiers, Namespace, Library.dll
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Access modifiers, Namespace, Library.pdb
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Library1.dll
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\bin\Debug\net5.0\Library1.pdb
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.dll
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\ref\Access modifiers, Namespace, Library.dll
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.pdb
+C:\Users\ADMIN\source\repos\Access modifiers, Namespace, Library\Access modifiers, Namespace, Library\obj\Debug\net5.0\Access modifiers, Namespace, Library.genruntimeconfig.cache
